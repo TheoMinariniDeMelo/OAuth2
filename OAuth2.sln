@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTOAuth2", "DOTOAuth2.csproj", "{63565F16-BA54-4C5A-8654-8C72C2B5502B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2", "OAuth2.csproj", "{63565F16-BA54-4C5A-8654-8C72C2B5502B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

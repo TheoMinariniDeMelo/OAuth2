@@ -1,4 +1,4 @@
-namespace DOTOAuth2;
+namespace OAuth2;
 
 public class GitHubConfig
 {
